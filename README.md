@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meninblacks
-- 👀 I’m interested in web, Android and game development.
-- 🌱 I’m currently learning back-end development and Kotlin.
+- 👀 I’m interested in web and game development.
+- 🌱 I’m currently learning full-stack development.
 - 💞️ I’m looking to collaborate on building projects.
 - 📫 How to reach me -> Github, Twitter-@justzuckcannot
 
