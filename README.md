@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and game development.
 - 🌱 I’m currently learning full-stack development.
 - 💞️ I’m looking to collaborate on building projects.
-- 📫 How to reach me -> Github, Twitter-@justzuckcannot
+  
 
 <!---
 meninblacks/meninblacks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
